@@ -6,7 +6,8 @@ PACKAGENAME = "rgwaspy"
 VERSION = rgwaspy.__version__
 
 INSTALL_REQUIRES = [
-    "numpy" "pandas",
+    "numpy",
+    "pandas",
     "pip",
     "python>=3.8",
     "setuptools",
