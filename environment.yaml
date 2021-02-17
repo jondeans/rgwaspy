@@ -1,0 +1,12 @@
+name: rgwaspy
+
+channels:
+  - conda-forge
+  - default
+
+dependencies:
+  - numpy
+  - pandas
+  - pip
+  - python>=3.8
+  - setuptools
